@@ -25,7 +25,7 @@ Mechatronics Technician and Electronic Hardware Designer passionate about embedd
 
 ## 📈 Featured Projects
 * **[UltiCore V1 PLC](https://github.com/paulmartinezcuenta/UltiCore-V1-PLC)** - Custom industrial automation motherboard files and firmware.
-* **[NASA HERC Electrical System]** - System overview, telemetry logic, and electrical constraints overview.
+* **[NASA HERC Electrical System](https://github.com/paulmartinezcuenta/RDX_RC_KAKATA)** - System overview, telemetry logic, and electrical constraints overview.
 
 ---
 *Driven by precision, execution, and continuous learning. Focused on developing high-level, production-ready hardware solutions.*
