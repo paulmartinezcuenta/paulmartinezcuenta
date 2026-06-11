@@ -1,10 +1,10 @@
-# Hi, I'm Paul Martinez! 👋
+# Hi, I'm Paul Martinez!
 
 Mechatronics Technician and Electronic Hardware Designer passionate about embedded systems, custom industrial automation, and high-performance hardware. I specialize in bringing hardware architectures from initial schematic design to fully functional multi-layer PCBs and robust firmware execution.
 
 ---
 
-## 🚀 Key Highlights & Experience
+## Key Highlights & Experience
 
 * **Electronic Designer @ NASA HERC 2026 Team:** Spearheaded the electrical system architecture, telemetry network, and power distribution systems for the exploration rover vehicle.
 * **Industrial Automation & PLC Design:** Developer of the *UltiCore V1*, a custom industrial-grade PLC platform engineered around the ESP32 architecture to optimize manufacturing automation and cost-efficiency.
@@ -12,7 +12,7 @@ Mechatronics Technician and Electronic Hardware Designer passionate about embedd
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -23,7 +23,7 @@ Mechatronics Technician and Electronic Hardware Designer passionate about embedd
 
 ---
 
-## 📈 Featured Projects
+## Featured Projects
 * **[UltiCore V1 PLC](https://github.com/paulmartinezcuenta/UltiCore-V1-PLC)** - Custom industrial automation motherboard files and firmware.
 * **[NASA HERC Electrical System](https://github.com/paulmartinezcuenta/RDX_RC_KAKATA)** - System overview, telemetry logic, and electrical constraints overview.
 
